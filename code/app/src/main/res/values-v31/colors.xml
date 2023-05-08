@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card_bg">@color/material_dynamic_primary70</color>
+    <color name="item_card_bg">@color/material_dynamic_neutral70</color>
+    <color name="icon_bg">@color/material_dynamic_neutral_variant70</color>
+    <color name="stroke_color">@color/material_dynamic_tertiary70</color>
+    <color name="grey_bg">@color/material_dynamic_tertiary90</color>
+
+
+    <color name="light_blue">@color/card_bg</color>
+</resources>

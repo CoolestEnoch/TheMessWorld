@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 夜间主题 -->
+    <color name="black_text">@color/teal_200</color>
+    <color name="grey_bg">@color/black_icon</color>
+</resources>
