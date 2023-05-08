@@ -12,7 +12,7 @@
 
 # 这是个啥？/ What's this? 🤔
 > 一个去广告插件，随缘支持更多应用，目前只支持胖乖生活<br>
-> An AD-Blocker app, only support Penguin Life temporary. Will support more and more apps in the future.
+> An AD-Blocker app, only support Penguin Life temporary. Will support more apps in the future.
 
 # 支持的平台 / Supported platform 📱
 - [x] 安卓7.0及以上系统 / Android 7.0+
