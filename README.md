@@ -1,12 +1,12 @@
 # 这个世界太乱 / What a Mess World
 
-## 下载
-[本人仓库](https://github.com/CoolestEnoch/TheMessWorld/releases)
-[LSPosed仓库](https://github.com/Xposed-Modules-Repo/foss.coolest.fucker/releases)
+## 下载 / Download
+[本人仓库 / My repo](https://github.com/CoolestEnoch/TheMessWorld/releases)
+[LSPosed仓库 / LSPosed](https://github.com/Xposed-Modules-Repo/foss.coolest.fucker/releases)
 
-## 仓库链接
-[本人仓库](https://github.com/CoolestEnoch/TheMessWorld)
-[LSPosed仓库](https://github.com/Xposed-Modules-Repo/foss.coolest.fucker)
+## 仓库链接 / Repo
+[本人仓库 & 源码 / My repo with source code](https://github.com/CoolestEnoch/TheMessWorld)
+[LSPosed仓库 / LSPosed](https://github.com/Xposed-Modules-Repo/foss.coolest.fucker)
 
 [![Motto](https://readme-typing-svg.herokuapp.com/?lines=今天你躺平了吗\(bushi&center=true&size=27)](https://github.com/CoolestEnoch/)
 
