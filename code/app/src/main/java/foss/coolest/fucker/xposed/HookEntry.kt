@@ -7,7 +7,7 @@ import com.github.kyuubiran.ezxhelper.utils.hookBefore
 import de.robv.android.xposed.IXposedHookLoadPackage
 import de.robv.android.xposed.IXposedHookZygoteInit
 import de.robv.android.xposed.callbacks.XC_LoadPackage
-import foss.coolest.fucker.xposed.hooks.hookPangGuaiShengHuo
+import xposed.fucker.xposed.hooks.hookPangGuaiShengHuo
 
 class HookEntry : IXposedHookLoadPackage, IXposedHookZygoteInit  {
 
